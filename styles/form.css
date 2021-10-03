@@ -1,0 +1,88 @@
+.container{
+    width: 954px;
+    height: 594px;
+    display: flex;
+    height: 100vh;
+
+}
+
+.item1{
+    width: 609px;
+    height: 594px;
+    
+    background-color: #BE0909;
+    margin-top: 153px;
+    margin-left: 0px;
+    color: white;
+    display: inline-block;
+}
+.item1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+}
+.item2{
+    width: 345px;
+    height: 594px;
+    margin-top: 153px;
+    margin-left: 0px;
+    background-color: #FFB039;
+}
+.fullname{
+    width: 400px;
+    height: 72px;
+    border-style:none;
+    border-bottom: 1px#9DBEBB;
+    margin-top: 64px;
+    margin-left: 65px; 
+    
+}
+.email{
+    width: 160px;
+    height: 72px;
+    border-bottom:1px #9DBEBB;
+    margin-top: 22px;
+    margin-left: 65px;
+}
+.message-regarding{
+    width: 213px;
+    height: 72px;
+    border-bottom:1px #9DBEBB;
+    margin-top: 31px;
+    margin-left: 65px;
+}
+
+.message{
+    width: 400px;
+    height: 72px;
+    border-bottom:1px #9DBEBB;
+    
+    margin-top: 21px;
+    margin-left: 65px;
+}
+.paynow{
+    width: 202px;
+    height: 48px;
+    border-radius: 40px;
+    border: none;
+    background-color: #468189;
+    color: white;
+    margin-top: 56px;
+    margin-left: 124px;
+    align-items: center;
+}
+
+.paynow{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    line-height: 100%;
+}
+
+img{
+    position: absolute;
+    left: 242px;
+    top: 205px;
+    z-index: 1;
+}
